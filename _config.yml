@@ -19,8 +19,7 @@ plugins:
 
 # Build settings
 markdown: kramdown
-hightlighter: 'rouge' 
-
+highlighter: rouge
 # Pagination
 paginate: 2
 paginate_path: "/blog/page:num/"
